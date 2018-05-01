@@ -1,0 +1,14 @@
+{
+  "name": "corner-game",
+  "version": "1.0.0",
+  "description": "Sends a simple simulation html/js file for browser display.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specidied\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
